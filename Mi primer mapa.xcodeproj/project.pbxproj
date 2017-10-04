@@ -29,7 +29,7 @@
 		9A2FF9FA1F84736F007F6845 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A2FF9FD1F84736F007F6845 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A2FF9FF1F84736F007F6845 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9A2FFA071F84775E007F6845 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		9A2FFA071F84775E007F6845 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Podfile; path = "Mi primer mapa/Podfile"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +46,7 @@
 		9A2FF9DF1F84736F007F6845 = {
 			isa = PBXGroup;
 			children = (
+				9A2FFA071F84775E007F6845 /* Podfile */,
 				9A2FF9EA1F84736F007F6845 /* Mi primer mapa */,
 				9A2FF9E91F84736F007F6845 /* Products */,
 			);
@@ -70,7 +71,6 @@
 				9A2FF9FF1F84736F007F6845 /* Info.plist */,
 				9A2FF9F71F84736F007F6845 /* Mi_primer_mapa.xcdatamodeld */,
 				9A2FF9EB1F84736F007F6845 /* Supporting Files */,
-				9A2FFA071F84775E007F6845 /* Podfile */,
 			);
 			path = "Mi primer mapa";
 			sourceTree = "<group>";
